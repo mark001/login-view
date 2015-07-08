@@ -1,0 +1,10 @@
+E:\Mark\c#\Sample\Sample\bin\Debug\Sample.exe
+E:\Mark\c#\Sample\Sample\bin\Debug\Sample.pdb
+E:\Mark\c#\Sample\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+E:\Mark\c#\Sample\Sample\obj\Debug\Sample.Properties.Resources.resources
+E:\Mark\c#\Sample\Sample\obj\Debug\Sample.csproj.GenerateResource.Cache
+E:\Mark\c#\Sample\Sample\obj\Debug\Sample.exe
+E:\Mark\c#\Sample\Sample\obj\Debug\Sample.pdb
+E:\Mark\c#\Sample\Sample\obj\Debug\Sample.frmLogin.resources
+E:\Mark\c#\Sample\Sample\obj\Debug\Sample.frmMessage.resources
+E:\Mark\c#\Sample\Sample\obj\Debug\Sample.Form3.resources
